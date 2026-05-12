@@ -230,10 +230,10 @@ chmod 600 ~/.ssh/authorized_keys
 | SSH Hardening | ✅ Complete |
 | Audit Script | ✅ Complete |
 | User & Permission Hardening | 🔄 In Progress |
-| fail2ban Configuration | 📅 Planned |
-| Firewall (UFW/iptables) | 📅 Planned |
-| Automated Backup System | 📅 Planned |
-| Monitoring Setup | 📅 Planned |
+| fail2ban Configuration |  Planned |
+| Firewall (UFW/iptables) |  Planned |
+| Automated Backup System |  Planned |
+| Monitoring Setup |  Planned  |
 
 ---
 
