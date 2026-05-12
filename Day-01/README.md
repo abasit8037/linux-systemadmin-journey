@@ -120,7 +120,7 @@ sudo ./server-audit.sh
 
 ## 📅 Series
 
-This is Day 1 of a 75-day public Linux SysAdmin journey.
+This is Day 1 of a 30-day public Linux SysAdmin journey.
 
 | Day | Topic |
 |-----|-------|
